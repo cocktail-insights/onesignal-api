@@ -1,0 +1,25 @@
+{
+  "name": "onesignal-sdk",
+  "version": "1.0.0",
+  "description": "Onesignal Server SDK",
+  "main": "onesignal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cocktail-insights/onesignal-api.git"
+  },
+  "keywords": [
+    "onesignal"
+  ],
+  "author": "AdGeek Dev Team <developers@adgeekpro.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cocktail-insights/onesignal-api/issues"
+  },
+  "homepage": "https://github.com/cocktail-insights/onesignal-api#readme",
+  "dependencies": {
+    "axios": "^0.16.1"
+  }
+}
